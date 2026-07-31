@@ -37,4 +37,4 @@ Estudiante de Ingeniería de Sistemas · Universidad Católica Luis Amigo · 3er
 
 - 🔧 Profundizando en Linux, Docker y administración de servidores
 - 🏗️ Construyendo proyectos de portafolio con buenas prácticas desde el día uno
-- 📚 Graduado en Tecnología en Desarrollo de Software, y cursando 3er semestre Ing. de Sistemas— Universidad Católica Luis Amigo
+- 📚 Graduado en Tecnología en Desarrollo de Software, y cursando 3er semestre Ing. de Sistemas — Universidad Católica Luis Amigo
