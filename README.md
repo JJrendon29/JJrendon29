@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JJrendon29/JJrendon29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Juan José Rendón Muñoz
 
-Here are some ideas to get you started:
+**Backend developer construyendo sistemas eficientes y escalables — Medellín, Colombia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de Ingeniería de Sistemas · Universidad Católica Luis Amigo · 3er semestre
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rendon-54332a349/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jjrendongg@gmail.com)
+
+</div>
+
+---
+
+### Stack
+
+| Área | Tecnologías |
+|------|-------------|
+| Backend | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| Infraestructura | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
+| DevOps | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+
+---
+
+### Proyectos
+
+**[task-manager-api](https://github.com/JJrendon29/task-manager-api)** — REST API para gestión de tareas con autenticación JWT, paginación, tests automatizados y CI/CD.
+`FastAPI` · `PostgreSQL` · `Docker` · `pytest` · `GitHub Actions`
+
+**[homelab-fastapi-microservices](https://github.com/JJrendon29/homelab-fastapi-microservices)** — Stack de producción corriendo 24/7 en Proxmox con HTTPS público vía Cloudflare Tunnel y deploy automático.
+`Docker Compose` · `Redis` · `Cloudflare` · `Linux`
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJrendon29&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJrendon29&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+### Actualmente
+
+- 🔧 Profundizando en Linux, Docker y administración de servidores
+- 🏗️ Construyendo proyectos de portafolio con buenas prácticas desde el día uno
+- 📚 Tecnología en Desarrollo de Software — Universidad Católica Luis Amigo
