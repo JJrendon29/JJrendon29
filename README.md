@@ -27,9 +27,15 @@ Estudiante de Ingeniería de Sistemas · Universidad Católica Luis Amigo · 3er
 
 **[task-manager-api](https://github.com/JJrendon29/task-manager-api)** — REST API para gestión de tareas con autenticación JWT, paginación, tests automatizados y CI/CD.
 `FastAPI` · `PostgreSQL` · `Docker` · `pytest` · `GitHub Actions`
+→ [tasks.homelab-rendon29.online](https://tasks.homelab-rendon29.online)
+
+**[url-shortener-api](https://github.com/JJrendon29/url-shortener-api)** — Acortador de URLs con caché Redis, contador de clicks y expiración automática.
+`FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions`
+→ [urls.homelab-rendon29.online](https://urls.homelab-rendon29.online)
 
 **[homelab-fastapi-microservices](https://github.com/JJrendon29/homelab-fastapi-microservices)** — Stack de producción corriendo 24/7 en Proxmox con HTTPS público vía Cloudflare Tunnel y deploy automático.
 `Docker Compose` · `Redis` · `Cloudflare` · `Linux`
+→ [api.homelab-rendon29.online](https://api.homelab-rendon29.online)
 
 ---
 
