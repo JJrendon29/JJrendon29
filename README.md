@@ -35,7 +35,7 @@ Estudiante de Ingeniería de Sistemas · Universidad Católica Luis Amigo · 3er
 
 **[homelab-fastapi-microservices](https://github.com/JJrendon29/homelab-fastapi-microservices)** — Stack de producción corriendo 24/7 en Proxmox con HTTPS público vía Cloudflare Tunnel y deploy automático.
 `Docker Compose` · `Redis` · `Cloudflare` · `Linux`
-→ [api.homelab-rendon29.online](https://api.homelab-rendon29.online)
+→ [api.homelab-rendon29.online/docs](https://api.homelab-rendon29.online/docs)
 
 ---
 
